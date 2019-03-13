@@ -171,11 +171,9 @@ $(function() {
 	w.load("<h1 class='writecode'>简历</h1>");
 	w.load("<p><div class='writecode'>毒毒</div>");
 	w.load("<div class='writecode'>移动网络工程师</div>");
-	w.load("<div class='writecode'>后端/NodeJS 网络工程师</div></p>");
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>mail:114413511@qq.com</li>");
-	w.load("<li class='writecode'>blog:<a href='http://blog.youlunshidai.com' target='_blank'>blog.youlunshidai.com</a></li>");
+	w.load("<li class='writecode'>mail:841005260@qq.com</li>");
 	w.load("<li class='writecode'>github:<a href='https://github.com/ccfromstar' target='_blank'>https://github.com/ccfromstar</a></li>");
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>技能</h1>");
