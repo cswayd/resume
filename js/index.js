@@ -2,8 +2,8 @@ $(function() {
 	var c = new Coder("style-text");
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*</div>");
-	c.load("<div class='bef_comment writecode'>&nbsp;*hi,我的名字叫陈辰，是上海一家互联网创业公司的软件工程师</div>");
-	c.load("<div class='bef_comment writecode'>&nbsp;*我的主要工作是解决用户的交互体验</div>",2000);
+	c.load("<div class='bef_comment writecode'>&nbsp;*hi,我的名字叫毒毒，是一名移动维护工程师</div>");
+	c.load("<div class='bef_comment writecode'>&nbsp;*我的主要工作是保证网络运行</div>",2000);
 	c.load("<div class='bef_comment writecode'>&nbsp;*让我们来点实际的，看看我能做些什么</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*/</div></p>");
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
@@ -169,9 +169,9 @@ $(function() {
 	r.load("<div id='md'></div>");
 	var w = new Coder("md");
 	w.load("<h1 class='writecode'>简历</h1>");
-	w.load("<p><div class='writecode'>陈辰</div>");
-	w.load("<div class='writecode'>软件工程师(上海荟邮网络科技有限公司)</div>");
-	w.load("<div class='writecode'>前端/NodeJS 开发工程师</div></p>");
+	w.load("<p><div class='writecode'>毒毒</div>");
+	w.load("<div class='writecode'>移动网络工程师</div>");
+	w.load("<div class='writecode'>后端/NodeJS 网络工程师</div></p>");
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
 	w.load("<li class='writecode'>mail:114413511@qq.com</li>");
@@ -265,8 +265,8 @@ $(function() {
 	c.load("<div class='comment writecode'>&nbsp;*这样基本上就差不多了</div>");
 	c.load("<div class='comment writecode'>&nbsp;*");
 	c.load("<div class='comment writecode'>&nbsp;*如果你想和我联系</div>");
-	c.load("<div class='comment writecode'>&nbsp;*QQ/微信:114413511</div>");
-	c.load("<div class='comment writecode'>&nbsp;*mobile:13611847679</div>");
+	c.load("<div class='comment writecode'>&nbsp;*QQ/微信:841005260</div>");
+	c.load("<div class='comment writecode'>&nbsp;*mobile:15158211931</div>");
 	c.load("<div class='comment writecode'>&nbsp;*最后非常感谢您愿意花3分钟看完我的简历！</div>");
 	c.load("<div class='comment writecode'>&nbsp;*/</div></p>");
 
